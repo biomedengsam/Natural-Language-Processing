@@ -3,7 +3,7 @@ Natural Language Processing (NLP)
 
 ## Project Description:
  This project is a web tool that allows users to run Natural Language Processing (NLP) on text from articles, blogs found on other websites ,or any text you would like to analyze. NLP is the ability of an application to understand the human language, written or oral.This tool will help the user classify the information available in the article, like whether the content is subjective (opinion) or objective (fact-based) and whether it is positive, neutral, or negative in tone.
-With the use of an external api called **MeaningCloud API** to do the language processing.
+With the use of an external api called [**MeaningCloud API**](https://www.meaningcloud.com/products/sentiment-analysis) to do the language processing.
 
 ## Project technologies and tools:
 - Webpack
